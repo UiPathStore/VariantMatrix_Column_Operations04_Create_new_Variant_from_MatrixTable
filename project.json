@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.2.1.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.166861828",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,7 +43,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "95010c3e-31f2-4a38-b2a8-687929ab5928",
         "testCaseType": "TestCase",
         "fileName": "BL_Create new Variant from MatrixTable.xaml"
